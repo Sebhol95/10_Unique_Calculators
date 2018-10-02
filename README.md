@@ -9,7 +9,7 @@ The reason for this repository is the practice of my python game, by doing so i 
 - [X] Simple subtraction calculator
 - [X] Simple multiplication calculator
 - [X] Simple division calculator
-- [ ] addition, subtraction, multiplication and division calculator
+- [ ] Addition, subtraction, multiplication and division calculator (Multi Calculator)
 - [X] Subnett Calculator
 
 ## Code style
