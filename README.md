@@ -18,7 +18,7 @@ The reason for this repository is the practice of my python game, by doing so i 
 / for division
 ```
 
-## Screenshots
+## Test of scripts
 [Testing of scripts](https://sebastianholterhuset.imgur.com/all/)
 
 ## Code Example
