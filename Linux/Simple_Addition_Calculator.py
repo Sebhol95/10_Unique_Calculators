@@ -1,9 +1,5 @@
 # Created by Sebhol95 for repository "Calculators" https://github.com/Sebhol95/Calculators
 
-# Simple Addition calculator
-
-from cx_Freeze import setup, Executable
-
 x = 1
 x = int(input("Press 1 to calculate or 0 to exit "))
 while (x > 0):
