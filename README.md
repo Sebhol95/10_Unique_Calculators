@@ -29,7 +29,8 @@ prisen =  float (var) * float (prispr) - float (bensin)
 km = float (distanse) - float (prispr)
 ```
 ## Use on Linux machine 
-Comming soon. 
+To run the program on a linux machine, use the following command: ```python NameOfCalculator.py ``` inside terminal/CLI
+If you are not able to run the script you need to make the file executable ```chmod +x script_name.py ```
 
 ## Use on Windows machine
 Comming soon. 
