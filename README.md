@@ -9,8 +9,9 @@ The reason for this repository is the practice of my python game, by doing so i 
 - [X] Simple subtraction calculator
 - [X] Simple multiplication calculator
 - [X] Simple division calculator
-- [ ] Addition, subtraction, multiplication and division calculator (Multi Calculator)
 - [X] Subnett Calculator
+
+Check out the [50 uniqe calculator count](https://sebastianholterhuset.imgur.com/all/) to see what kind of calculators that are comming. 
 
 ## Scripts
 Created a imgur account where [screenshots](https://sebastianholterhuset.imgur.com/all/) are provided as proof of work. It also illustrate what the different calculator does and how it looks. 
