@@ -6,9 +6,10 @@ The reason for this repository is the practice of my python game, by doing so i 
 
 ## Calculators
 - [X] Simple additon calculator
-- [ ] Simple subtraction calculator
-- [ ] Simple multiplication calculator
-- [ ] Simple division calculator
+- [X] Simple subtraction calculator
+- [X] Simple multiplication calculator
+- [X] Simple division calculator
+- [ ] Subnett Calculator
 
 ## Code style
 ```
