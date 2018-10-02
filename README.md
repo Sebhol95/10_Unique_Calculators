@@ -4,10 +4,11 @@ So you are in need of a calculator? This repository is a pit where all kind of c
 ## Motivation
 The reason for this repository is the practice of my python game, by doing so i will also maintain my skills providing daily updates/ new calculators.
 
-## Calculators comming 
-- [ ] Subnett Calculator
-- [ ] Comming more soon
-- [ ] Comming more soon
+## Calculators
+- [X] Simple Additon calculator
+- [ ] Simple subtraction calculator
+- [ ] Simple multiplication calculator
+- [ ] Simple division calculator
 
 ## Code style
 Strings, floats, variables in Python
