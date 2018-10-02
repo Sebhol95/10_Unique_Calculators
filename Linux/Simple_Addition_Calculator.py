@@ -11,5 +11,3 @@ while (x > 0):
     print ("The total amout is:")
     print (num1 + num2)
     print ("")
-    else:
-    print ("Invalid input")
