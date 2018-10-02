@@ -11,7 +11,12 @@ The reason for this repository is the practice of my python game, by doing so i 
 - [ ] Simple division calculator
 
 ## Code style
-Strings, floats, variables in Python
+```
++ for addition
+- for subtraction
+* for multiplication
+/ for division
+```
 
 ## Screenshots
 Comming soon
