@@ -18,7 +18,8 @@ The reason for this repository is the practice of my python game, by doing so i 
 / for division
 ```
 
-## [Testing of scripts](https://sebastianholterhuset.imgur.com/all/)
+## Scripts
+Created a imgur account where [screenshots](https://sebastianholterhuset.imgur.com/all/) are provided as proof of work. It also illustrate what the different calculator does and how it looks. 
 
 ## Code Example
 Using floats, variables and strings we are able to simplyfy the code for our calculators
