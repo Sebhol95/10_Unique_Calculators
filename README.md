@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/SKx7zql.png)
+![alt text](https://i.imgur.com/BTCmgQG.png)
 
 
 ## Calculators
