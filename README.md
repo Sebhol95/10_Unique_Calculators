@@ -1,6 +1,4 @@
 ![alt text](https://i.imgur.com/DVP55Pr.png)
-
-
 ## Calculators
 So you are in need of a calculator? This repository is a pit where all kind of calculators are dumped (Created by sebhol95) using Python. Check them out, they all work :open_mouth:. The idea is to continue creating calculators untill the repository reach 50 uniqe ones. 
 
