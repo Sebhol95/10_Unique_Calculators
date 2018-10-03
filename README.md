@@ -21,6 +21,7 @@ Created a imgur account where [screenshots](https://sebastianholterhuset.imgur.c
 
 ## Code Example
 Check out the break down of all the calculators at the [Wiki](https://github.com/Sebhol95/50-Unique-Calculators/wiki/Calculators-function), it also show the functions of all the calculators!
+
 Example of code: 
 ```
 x = 1
