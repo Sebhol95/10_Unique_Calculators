@@ -6,12 +6,13 @@ So you are in need of a calculator? This repository is a pit where all kind of c
 The reason for this repository is the practice of my python game, by doing so i will also maintain my skills providing daily updates/ new calculators.
 
 ## Calculators
-- [X] Simple additon calculator
-- [X] Simple subtraction calculator
-- [X] Simple multiplication calculator
-- [X] Simple division calculator
+- [X] Simple additon Calculator
+- [X] Simple subtraction Calculator
+- [X] Simple multiplication Calculator
+- [X] Simple division Calculator
 - [X] Subnett Calculator
 - [X] Multi Calculator
+- [X] Hexadecimal Calculator
 
 Check out the [50 uniqe calculator count](https://github.com/Sebhol95/50-Uniqe-Calculators/projects/1) to see what kind of calculators that are comming. 
 
