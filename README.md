@@ -45,4 +45,9 @@ If you are not able to run the script you need to make the python script executa
 ## Use on Windows machine
 Comming soon. 
 
+## Clone Counter
+How many times has this repositorybeen cloned? check the daily updated statistics here:
+![alt text](https://i.imgur.com/vf2QrrH.jpg)
+
+
 GPL © Sebohol95
