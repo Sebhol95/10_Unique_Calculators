@@ -14,6 +14,7 @@ The reason for this repository is the practice of my python game, by doing so i 
 - [X] Multi Calculator
 - [X] Hexadecimal Calculator
 - [X] Decimal to binary Calculator
+- [X] Octal Calculator
 
 Check out the [50 uniqe calculator count](https://github.com/Sebhol95/50-Uniqe-Calculators/projects/1) to see what kind of calculators that are comming. 
 
