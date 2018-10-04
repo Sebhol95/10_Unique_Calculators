@@ -2,7 +2,7 @@
 
 x = 1
 print ("\n")
-print ("The Simple addition Calculator")
+print ("Decimal to Binary Calculator")
 print ("")
 x = int(input("Press 1 to calculate or 0 to exit "))
 while (x > 0):
