@@ -1,4 +1,4 @@
-![alt text](https://imgur.com/KoXl7cs.png)
+![alt text](https://imgur.com/ZlaZqnx.png)
 ## Calculators
 So you are in need of a calculator? This repository is a pit where all kind of calculators are dumped (Created by sebhol95) using Python. Check them out, they all work :open_mouth:. 10 training calculators for beginners! 
 
