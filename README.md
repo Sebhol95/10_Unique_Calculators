@@ -1,9 +1,9 @@
-![alt text](https://i.imgur.com/vB5CFUX.png)
+![alt text](https://imgur.com/KoXl7cs.png)
 ## Calculators
-So you are in need of a calculator? This repository is a pit where all kind of calculators are dumped (Created by sebhol95) using Python. Check them out, they all work :open_mouth:. The idea is to continue creating calculators untill the repository reach 50 uniqe ones. 
+So you are in need of a calculator? This repository is a pit where all kind of calculators are dumped (Created by sebhol95) using Python. Check them out, they all work :open_mouth:. 10 training calculators for beginners! 
 
 ## Motivation
-The reason for this repository is the practice of my python game, by doing so i will also maintain my skills providing daily updates/ new calculators.
+The reason for this repository is the practice of my python game, by doing so i will also maintain my skills.
 
 ## Calculators
 - [X] Simple additon Calculator
@@ -17,7 +17,7 @@ The reason for this repository is the practice of my python game, by doing so i 
 - [X] Octal Calculator
 - [X] Exponent Calculator
 
-Check out the [50 uniqe calculator count](https://github.com/Sebhol95/50-Uniqe-Calculators/projects/1) to see what kind of calculators that are comming. 
+Check out the [10 uniqe calculator count](https://github.com/Sebhol95/50-Uniqe-Calculators/projects/1).
 
 ## Scripts
 Created a imgur account where [screenshots](https://sebastianholterhuset.imgur.com/all/) are provided as proof of work. It also illustrate what the different calculator does and how it looks. 
